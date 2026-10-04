@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: If you use these data, please cite the paper below.
+type: dataset
+title: "Data for: Early checks for planned datasets and data papers: Failure modes seen in abandoned dataset proposals"
+authors:
+  - family-names: "Lehtinen"
+    given-names: "Anna"
+license: "CC-BY-4.0"
+url: "https://github.com/annalehtinen/abandoned-dataset-proposals"
+keywords:
+  - "negative results"
+  - "research waste"
+  - "dataset papers"
+  - "data descriptor"
+  - "prior art"
+  - "prior-art search"
+  - "degenerate join"
+  - "data licensing"
+  - "kill register"
+  - "metascience"
+preferred-citation:
+  type: report
+  title: "Early checks for planned datasets and data papers: Failure modes seen in abandoned dataset proposals"
+  authors:
+    - family-names: "Lehtinen"
+      given-names: "Anna"
+  doi: "10.5281/zenodo.23144454"
+  publisher:
+    name: "Zenodo"
+  year: 2026

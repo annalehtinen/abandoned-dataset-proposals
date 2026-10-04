@@ -1,0 +1,50 @@
+{
+ "generated_utc": "2026-09-28T07:28:34.526410+00:00",
+ "kill_records": 20,
+ "distinct_objects": 19,
+ "duplicate_object_keys": [
+  "doi:10.24432/C58K54"
+ ],
+ "mechanisms": {
+  "scooped_published": 7,
+  "degenerate_join": 4,
+  "unidentifiable_estimand": 1,
+  "licence_blocks_release": 2,
+  "base_still_maintained": 1,
+  "base_already_extended": 5
+ },
+ "first_kill_utc": "2026-08-31T17:00:00+00:00",
+ "last_kill_utc": "2026-09-05T14:45:11+00:00",
+ "kills_with_local_file_evidence": [
+  "KILL-001",
+  "KILL-002",
+  "KILL-004",
+  "KILL-006",
+  "KILL-009"
+ ],
+ "kills_after_a_built_release": [
+  "KILL-010",
+  "KILL-011"
+ ],
+ "evidence_items_by_kind": {
+  "local_file_grep": 5,
+  "fetched_document": 24,
+  "computation": 9,
+  "registry_record": 36,
+  "executed_run_log": 3,
+  "panel_transcript": 1
+ },
+ "evidence_items_total": 78,
+ "kills_that_do_not_reopen": [
+  "KILL-006",
+  "KILL-012",
+  "KILL-013"
+ ],
+ "dpo03_facet": {
+  "hf_total": 10252,
+  "hf_missing": 10252,
+  "zenodo_total": 12671907,
+  "zenodo_missing": 1358483,
+  "zenodo_non_missing": 11313424
+ }
+}
